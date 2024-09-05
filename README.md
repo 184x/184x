@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord" alt="Typing SVG" />
 </h1>
 
-<a href="https://discord.com/users/115933106061574147"><img  width="400px" src="https://lanyard.kyrie25.me/api/115933106061574147?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=discord.gg/observe"></a>
+<a href="https://discord.com/users/115933106061574147"><img  width="400px" src="https://lanyard.kyrie25.me/api/115933106061574147?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=discord.gg/1797"></a>
 <br> </br>
 
 <h1 align="center">
