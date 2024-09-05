@@ -19,9 +19,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Server's" alt="Typing SVG" />
 </h1>
 
-<a href="https://discord.gg/observe"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://discord.gg/observe"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://discord.gg/observe"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.gg/1797"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.gg/uptimebot"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://discord.gg/Qwn7vVbkP6"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFA500&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Languages+and+Tools" alt="Typing SVG" />
