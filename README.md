@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFFFFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Hello+I+am+Basar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFFFFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Hello+I+am+184x" alt="Typing SVG" />
 </h1>
 
 - 🧠 I am currently learning:
@@ -26,7 +26,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlybasar&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=184x&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <h1 align="center">
@@ -34,7 +34,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onlybasar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=184x&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <h1 align="center">
@@ -42,5 +42,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onlybasar&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=184x&theme=radical" alt="GitHub Trophies" />
 </div>
