@@ -1,12 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFFFFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Hello+I+am+184x" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=FFFFFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Hello+I+am+férâ" alt="Typing SVG" />
 </h1>
-
-- 🧠 I am currently learning:
-  **Assembly**
-
-- 💻 My Projects:
-  **Monitor**
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Server's" alt="Typing SVG" />
