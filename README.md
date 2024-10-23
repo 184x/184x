@@ -20,7 +20,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onecvi&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=184x&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <h1 align="center">
@@ -28,7 +28,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onecvi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=184x&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <h1 align="center">
@@ -36,5 +36,5 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=onecvi&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=184x&theme=radical" alt="GitHub Trophies" />
 </div>
